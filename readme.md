@@ -1,5 +1,5 @@
 # What is this
-+ It is a tool used for compiling files
++ It is a tool used for making compiling files simple
 
 # How to use
 1. Select one of two compilers (gcc or g++)
@@ -9,3 +9,7 @@
 
 # Who owns this
 + Inlnx
+
+# Who is this for
+New users or developers.
+  
